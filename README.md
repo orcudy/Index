@@ -39,26 +39,23 @@ An autobiographical piece about my journey through the education system.
 
 ### Apps
 
-* UCLALibrary | [full info](https://github.com/orcudy/index/wiki/UCLALibrary) | [source](http://bit.ly/github-uclalibrary) | [video demo](https://vimeo.com/album/3693502/video/148405704)  
+* UCLALibrary | [full info](https://github.com/orcudy/portfolio/wiki/UCLALibrary) | [source](http://bit.ly/github-uclalibrary) | [video demo](https://vimeo.com/album/3693502/video/148405704)  
 An iOS utility app created to provide real-time operating hours, rental laptop availability, and navigation to all 11 of UCLA's libraries. 
 
-* eWeek | [full info](https://github.com/orcudy/index/wiki/eWeek) | [source](https://github.com/orcudy/archive/tree/master/ios/apps/eweek) | [video demo](https://vimeo.com/album/3693502/video/148404888)  
+* eWeek | [full info](https://github.com/orcudy/portfolio/wiki/eWeek) | [source](https://github.com/orcudy/archive/tree/master/ios/apps/eweek) | [video demo](https://vimeo.com/album/3693502/video/148404888)  
 An iOS utility app built for UCLA's annual Engineering Week event. It was [released](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=981637936&mt=8) to the App Store in Spring, 2015.
 
-* Biplanes | [full info](https://github.com/orcudy/index/wiki/Biplanes) | [source](https://github.com/orcudy/archive/tree/master/ios/apps/biplanes) | [video demo](https://vimeo.com/album/3693502/video/103840072)  
+* Biplanes | [full info](https://github.com/orcudy/portfolio/wiki/Biplanes) | [source](https://github.com/orcudy/archive/tree/master/ios/apps/biplanes) | [video demo](https://vimeo.com/album/3693502/video/103840072)  
 An iOS game about planes designed for kids. It was [released](https://itunes.apple.com/us/app/biplanes!/id904104087?ls=1&mt=8!) to the App Store in Summer, 2014.
 
 ### Robots
 
-* Medusa | [full info](https://github.com/orcudy/index/wiki/Medusa) | [video demo](http://bit.ly/demo-medusa )  
+* Medusa | [full info](https://github.com/orcudy/portfolio/wiki/Medusa) | [video demo](http://bit.ly/demo-medusa )  
 An autonomous maze navigating robot built on the Arduino platform that won 2nd place at the UCLA Open Project Space Robotics Race.
 
-* Picam | [full info](https://github.com/orcudy/index/wiki/Picam) | [video demo](https://vimeo.com/152344182)  
+* Picam | [full info](https://github.com/orcudy/portfolio/wiki/Picam) | [video demo](https://vimeo.com/152344182)  
 A camera system built on the Raspberry Pi platform that allows a user to control where a camera is pointing via a mobile phone.
 
-* Dumbo | [full info](https://github.com/orcudy/index/wiki/Dumbo) | [flight video](https://vimeo.com/album/3693518/video/147213131)  
+* Dumbo | [full info](https://github.com/orcudy/portfolio/wiki/Dumbo) | [flight video](https://vimeo.com/album/3693518/video/147213131)  
 A remote-controlled quad copter that was built from off the shelf parts in preparation (to learn how a quad copter flies and the components that go into a quad copter) for building an autonomous drone controllable through a mobile interface. 
-
-
-
 
